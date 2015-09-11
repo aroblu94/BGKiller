@@ -1,0 +1,12 @@
+{
+	"name": "BGKiller",
+	"description": "One Button to rule them all",
+	"developer": {
+		"name": "aroblu94",
+		"url": "http://aro94.altervista.org"
+	},
+	"dependencies": {
+		"gulp": "*",
+		"gulp-zip": "*"
+	}
+}

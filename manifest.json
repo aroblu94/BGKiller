@@ -1,0 +1,15 @@
+{
+	"manifest_version": 0.1,
+	"name": "BGKiller",
+	"description": "One Button to rule them all",
+	"version": "0.1",
+	"author": "aroblu94",
+	"content_scripts": [{
+		"matches": ["app://system.gaiamobile.org/index.html"],
+		"js": ["main.js"]
+	}],
+	"icons": {
+		"128": "/icons/128.png",
+		"256": "/icons/256.png"
+	}
+}
